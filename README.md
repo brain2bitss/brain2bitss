@@ -9,13 +9,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=36454F&height=3&animation=fadeIn" width="100%" />
 </p>
 
-I am a multidisciplinary engineer who designs, builds, and secures full-stack systems. My work spans Spring Boot backends, LangChain-powered agentic AI workflows, and responsive user interfaces — all reinforced by the offensive security mindset of a professional web application penetration tester.
+I am a multidisciplinary engineer who designs, builds, and secures full-stack systems. My work spans Spring Boot backends, LangChain-powered agentic AI workflows, and responsive user interfaces - all reinforced by the offensive security mindset of a professional web application penetration tester.
 
 **Currently working on**
 
-- Building an enterprise-grade agentic AI system that orchestrates document processing and decision-making workflows (LangChain + Spring Boot)
-- Deep-diving into RAG (retrieval-augmented generation) architectures
-- Studying for the OSCP certification
+- Building ERP system with a well structured and scalable backend architecture 
+- Studying for the CEH (Certified Ethical Hacker) certification
+- Studying for the Microsoft AI - 103
 
 **Tech-Stack**
 
