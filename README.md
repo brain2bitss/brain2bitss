@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Adithya%20G&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Agentic%20AI%20%7C%20Security%20Engineer&descAlignY=58&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36454F&height=200&section=header&text=Adithya%20G&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Agentic%20AI%20%7C%20Security%20Engineer&descAlignY=58&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=600&color=6A5ACD&center=true&vCenter=true&width=700&lines=Backend+Developer+(Spring+Boot);Agentic+AI+Enthusiast+(LangChain);Web+App+Penetration+Tester;UI+Developer+(React)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=600&color=C2593F&center=true&vCenter=true&width=700&lines=Backend+Developer+(Spring+Boot);Agentic+AI+Enthusiast+(LangChain);Web+App+Penetration+Tester;UI+Developer+(React)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A5ACD&height=3&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=36454F&height=3&animation=fadeIn" width="100%" />
 </p>
 
 **Who am I**
@@ -60,5 +60,5 @@ I am a multidisciplinary engineer who designs, builds, and secures full-stack sy
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer&animation=fadeIn" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36454F&height=100&section=footer&animation=fadeIn" width="100%" alt="Footer" />
 </p>
