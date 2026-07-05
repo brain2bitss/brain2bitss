@@ -1,54 +1,72 @@
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=600&lines=Backend+Developer+(Spring+Boot);UI+Developer;Web+App+Penetration+Tester;Agentic+AI+(LangChain)" alt="Typing SVG" />
+  Backend engineer building <b>agentic AI systems</b> with Spring Boot & LangChain — and stress-testing web apps to make them safer.
 </p>
 
-<p align="center">
-  <svg width="60%" height="2" viewBox="0 0 1200 2" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="1" x2="1200" y2="1" stroke="#6A5ACD" stroke-width="2" stroke-dasharray="8, 8" />
-  </svg>
+---
+
+### 👋 Who am I?
+
+I'm a multidisciplinary engineer who designs, builds, and secures full-stack systems — robust backends in Spring Boot, agentic AI workflows in LangChain, and intuitive UIs, all held to the standard of someone who also breaks web apps for a living as a penetration tester.
+
+### 🚧 What am I currently working on?
+
+- Building an enterprise-grade agentic AI system that orchestrates document processing & decision-making workflows (LangChain + Spring Boot)
+- Deep-diving into **RAG** (retrieval-augmented generation) architectures
+- Studying for the **OSCP** certification
+
+### 🧰 What tools do I use?
+
+**Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### Who am I?
+**Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-I am a multidisciplinary engineer who designs, builds, and secures full-stack systems. My work spans developing robust backends with Spring Boot, crafting intuitive user interfaces, architecting agentic AI workflows with LangChain, and fortifying applications through web application penetration testing.
+**Agentic AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square&logo=crewai&logoColor=white" alt="CrewAI" />
+</p>
 
----
+**Security**
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+</p>
 
-### What am I currently working on?
+**Infra**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
-I am currently building an enterprise-grade agentic AI system that orchestrates complex document processing and decision-making workflows using LangChain and Spring Boot. In parallel, I am advancing my expertise in retrieval-augmented generation (RAG) techniques and preparing for the OSCP certification to deepen my offensive security capabilities.
+### 🌐 Languages
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
-### What tools do I use?
-
-`Java` · `Spring Boot` · `LangChain` · `LangGraph` · `CrewAI` · `React` · `Angular` · `TypeScript` · `Burp Suite` · `OWASP Top 10` · `PostgreSQL` · `MongoDB` · `Docker` · `Kubernetes`
-
----
-
-### How to reach me?
+### 📫 How to reach me?
 
 <p align="center">
   <a href="https://linkedin.com/in/[your-linkedin]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/[your-twitter]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://[your-portfolio].com">
-    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:[your-email]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <svg width="60%" height="2" viewBox="0 0 1200 2" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="1" x2="1200" y2="1" stroke="#6A5ACD" stroke-width="2" stroke-dasharray="8, 8" />
-  </svg>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&color=6A5ACD&style=flat-square" alt="Profile Views" />
 </p>
