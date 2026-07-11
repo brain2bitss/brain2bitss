@@ -47,13 +47,13 @@ I am a multidisciplinary engineer who designs, builds, and secures full-stack sy
 
 <!-- Contribution Activity -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/brain2bitss/brain2bitss/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
-</p> -->
+</p> 
 
 <!-- How to Reach Me -->
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://linkedin.com/in/[your-linkedin]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -63,8 +63,8 @@ I am a multidisciplinary engineer who designs, builds, and secures full-stack sy
   <a href="mailto:[your-email]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p> -->
+</p> 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36454F&height=100&section=footer&animation=fadeIn" width="100%" alt="Footer" />
-</p> -->
+</p> 
